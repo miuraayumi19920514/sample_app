@@ -1,0 +1,77 @@
+[33mcommit 52fc7941a2e45e5544de90e73eb5740ea8e71a00[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Fri Aug 9 02:54:16 2024 +0000
+
+    [追加]アクティブストレージをインストール、ビュー・コントローラー・モデルに記載、画像投稿機能を追加
+
+[33mcommit 59c0e71b2fe24816aa7611920c4a3e739260cb5b[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 15:04:56 2024 +0000
+
+    [追加]showビューに記載し、詳細画面に編集画面へのリンクを追加した
+
+[33mcommit 5e5d0e7e616111d6ebe935f62b0fcd5ed1604ad3[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 14:58:56 2024 +0000
+
+    [追加]アクション・ルーティング・editビューを記述し、更新機能を追加
+
+[33mcommit 63cede7d7a7287b4ba5223b7187b1468a6654b62[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 14:34:02 2024 +0000
+
+    [add]アクション・ルーティング・editビューき記述し、編集ページを作成
+
+[33mcommit 3c52081043dc2fba87135bae9a2e868739b003c9[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 14:08:02 2024 +0000
+
+    [追加]indexにshowへのリンクを作り、一覧表から詳細ページに行けるようにした
+
+[33mcommit f388fdcc619e9b94a5f9c0a272869d6124a6d73b[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 13:28:43 2024 +0000
+
+    [add]アクション、ルーティング、showビューをに記述し、詳細ページを作成
+
+[33mcommit a06b2cedaf9938f3c26de4a42a6ad241c73cf30d[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 13:02:52 2024 +0000
+
+    [add]アクション、ルーティングを変更しインデックスビューを記述。リストの一覧画面を作成
+
+[33mcommit 5933f304a008672a091874b9e4f879266516f2d1[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 11:20:40 2024 +0000
+
+    [add]newアクション　投稿フォームを作成
+
+[33mcommit c5adc8072cd4d10152189c4da66a7dc0efe15dde[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 10:22:09 2024 +0000
+
+    [add]newビューページを作成　Listテーブルを反映
+
+[33mcommit 8d97b880a8bba30589714ffe92ea5a37046f5925[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 07:04:21 2024 +0000
+
+    [add]listコントローラーを作成。ビュー・アクション・ルーティングも同時に作成済み
+
+[33mcommit 78f3c1fd424a7cca6bf2d92c96c21aa35b3c8919[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 06:38:09 2024 +0000
+
+    [add]homesコントローラーを作成-m[アクション・ビュー・ルーティングも同時に作成]
+
+[33mcommit 9fbe4e509ce78c32474a94758fa462af88fd6499[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 05:40:41 2024 +0000
+
+    [add]モデルを作りテーブルを作成した
+
+[33mcommit e893ac094163feb30e0feef9fba25dc646b6430c[m
+Author: miuraayumi19920514 <174306160+miuraayumi19920514@users.noreply.github.com>
+Date:   Thu Aug 8 02:16:01 2024 +0000
+
+    README.mdを新規作成した
